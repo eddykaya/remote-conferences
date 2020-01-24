@@ -5,3 +5,4 @@ For my this years education, I was looking for some remote conferences (summits 
 | # | Name | Type (partly/fully remote) | Link |
 |---|------|----------------------------|------|
 | 1 | Product Tripes Virtual Conference | fully remote | https://join.product-tribes.com/virtual-conference |
+| 2 | The Remote Work Summit | fully remote | https://www.theremoteworksummit.com/
